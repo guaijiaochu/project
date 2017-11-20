@@ -1,0 +1,11 @@
+1.No module named 'selenium'
+未安装selenium
+直接执行pip install selenium
+2.SyntaxError: Non-ASCII character '\xe5' in file xxx on line 2, but no encoding declared;
+中文问题
+开头添加# coding:utf-8
+3.chrome出现 data, 
+浏览器版本和相应webdriver不匹配
+下载相应版本
+4. .txt文件不在selenium中编辑，使用的不是UTF-8编码，会出现乱码问题。
+5.
