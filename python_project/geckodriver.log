@@ -1,0 +1,22 @@
+1510911401822	geckodriver	INFO	geckodriver 0.19.0
+1510911401828	geckodriver	INFO	Listening on 127.0.0.1:50898
+1510911403857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.73YetTQ5WXqW"
+1510911404375	Marionette	INFO	Enabled via --marionette
+1510911406052	Marionette	INFO	Listening on port 50904
+1510911406964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510911407050	Marionette	DEBUG	Register listener.js for window 4294967297
+1510911407072	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510911409686	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510911409687	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510911409688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+l/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1510908028664	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1510908028708	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1429_24867_21110_18559_17001_20930&req=2&csor=4&pwd=sel&cb=jQuery11020808625640238792_1510908028591&_=1510908028596, line 1: TypeError: jQuery11020808625640238792_1510908028591 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1429_24867_21110_18559_17001_20930&req=2&csor=6&pwd=selen&cb=jQuery11020808625640238792_1510908028591&_=1510908028598, line 1: TypeError: jQuery11020808625640238792_1510908028591 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1429_24867_21110_18559_17001_20930&req=2&csor=5&pwd=sele&cb=jQuery11020808625640238792_1510908028591&_=1510908028597, line 1: TypeError: jQuery11020808625640238792_1510908028591 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1429_24867_21110_18559_17001_20930&req=2&csor=7&pwd=seleni&cb=jQuery11020808625640238792_1510908028591&_=1510908028599, line 1: TypeError: jQuery11020808625640238792_1510908028591 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1429_24867_21110_18559_17001_20930&req=2&csor=8&pwd=seleniu&cb=jQuery11020808625640238792_1510908028591&_=1510908028600, line 1: TypeError: jQuery11020808625640238792_1510908028591 is not a function
+1510908029064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\admin\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
