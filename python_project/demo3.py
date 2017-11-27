@@ -10,8 +10,8 @@ import time
 dr = webdriver.Chrome()
 
 # 设置浏览器宽550、高600显示
-browser.set_window_size(550, 600) 
-time.sleep(3)
+# dr.set_window_size(550, 600) 
+# time.sleep(1)
 
 #将浏览器最大化显示
 dr.maximize_window() 
@@ -19,6 +19,7 @@ time.sleep(1)
 
 # 转到百度主页
 dr.get("http://www.baidu.com")
+time.sleep(1)
 
 # partial_link_text定位，用“贴”，找到了"贴 吧"
 dr.find_element_by_partial_link_text("贴").click()
@@ -30,7 +31,8 @@ print dr.title
 dr.implicitly_wait(10)
 
 # 后退
-dr.navigate.back()
+dr.get("http://www.baidu.com")
+time.sleep(1)
 
 # 输入框输入python，点击搜索
 dr.find_element_by_id("kw").send_keys("python")
