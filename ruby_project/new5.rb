@@ -1,3 +1,4 @@
+# 淘宝网执行相关操作
 # 导入必要的包
 require 'rubygems'
 require 'irb'
