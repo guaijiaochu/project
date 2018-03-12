@@ -43,7 +43,7 @@ dr.get "http://www.baidu.com"
 n=0
 
 # 将输入的值参数化，通过for循环遍历输出
-for line in open('data.xlsx',encoding:'utf-8').readlines()
+for line in open('data.txt',encoding:'utf-8').readlines()
 	
 	n=n+1
 
@@ -68,7 +68,7 @@ for line in open('data.xlsx',encoding:'utf-8').readlines()
 
 	# 截图
 	puts "<3>截图"
-	dr.save_screenshot "D:/rubyproject/save_screenshot/baidu#{n}.png"
+	dr.save_screenshot "D:/githubproject/project/ruby_project/save_screenshot/new3_1/baidu#{n}.png"
 
 	
 	
@@ -83,7 +83,7 @@ rescue Exception => e
 	#{e.message}"
 
 	# Logger.error("【name is not found】")
-	dr.save_screenshot "D:/rubyproject/save_screenshot/logger#{n}.png"
+	dr.save_screenshot "D:/githubproject/project/ruby_project/save_screenshot/new3_1/logger#{n}.png"
 ensure
 	puts "第#{n}次搜索完毕"
 end
