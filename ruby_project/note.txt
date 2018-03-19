@@ -16,4 +16,21 @@
 5.txt文件不在selenium中编辑、创建，出现乱码。
 .txt创建时使用的不是UTF-8编码。
 
-6.
+6.Failed to open TCP connection to 127.0.0.1:9515 (No connection could be made because the target machine actively refused it. - connect(2) for "127.0.0.1" port 9515) (Errno::ECONNREFUSED)
+def website website
+# 打开目标网址
+	@dr.get website
+
+
+#为了方便查看结果，等待
+sleep 1
+
+# 关闭本次执行打开的页面
+#@dr.close
+
+# 关闭所有页面
+end(end如果放在quit后面便可以正常执行)
+@dr.quit
+
+7.
+
