@@ -1,3 +1,5 @@
+# python2
+
 # python异常处理
 try:
 	undef

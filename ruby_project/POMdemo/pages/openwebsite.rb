@@ -7,7 +7,12 @@
 require "selenium-webdriver"
 require "irb"
 
-# 定义打开浏览器的方法
+
+
+#打开火狐浏览器
+# @dr= Selenium::WebDriver.for :chrome
+
+
 def browser browser
 
 	if browser == "ie"
@@ -21,37 +26,41 @@ def browser browser
 	else
 		@dr= Selenium::WebDriver.for :chrome
 		
+		
 	end
-	# max
+	max
 
 end
+
+
+
+# browser "chrome"
+
 
 
 def max
-	#浏览器窗口最大化
-	@dr.manage.window.maximize
+#浏览器窗口最大化
+@dr.manage.window.maximize
 end
 
 
-# 定义打开网址的方法
-def website website
+
+
+def openwebsite openwebsite
 	# 打开目标网址
-	@dr.get website
-	# 输入华为手机，点击搜索
+	@dr.get openwebsite
 
-end
-
-
-
-# 定义退出的方法
-def quit (s=3)
 	#为了方便查看结果，等待
-	sleep s
+	sleep 1
 
 	# 关闭本次执行打开的页面
 	#@dr.close
 
 	# 关闭所有页面
 	@dr.quit
+
 end
+
+
+
 

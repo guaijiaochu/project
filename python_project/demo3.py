@@ -7,7 +7,7 @@ from selenium import webdriver
 import time
 
 # 打开浏览器
-dr = webdriver.Chrome()
+dr = webdriver.Firefox()
 
 # 设置浏览器宽550、高600显示
 # dr.set_window_size(550, 600) 
@@ -25,7 +25,7 @@ time.sleep(1)
 dr.find_element_by_partial_link_text("贴").click()
 
 # 打印title
-print dr.title
+print (dr.title)
 
 #智能等待10秒
 dr.implicitly_wait(10)

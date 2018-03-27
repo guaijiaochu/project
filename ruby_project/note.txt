@@ -17,6 +17,7 @@
 .txt创建时使用的不是UTF-8编码。
 
 6.Failed to open TCP connection to 127.0.0.1:9515 (No connection could be made because the target machine actively refused it. - connect(2) for "127.0.0.1" port 9515) (Errno::ECONNREFUSED)
+
 def website website
 # 打开目标网址
 	@dr.get website
@@ -32,5 +33,19 @@ sleep 1
 end(end如果放在quit后面便可以正常执行)
 @dr.quit
 
-7.
+7.unknown error: call function result missing 'value'
+更换浏览器试试，可能是浏览器驱动问题（谷歌不可以，火狐可以）
 
+8.selenium.common.exceptions.WebDriverException: Message: unknown error: call function result missing 'value'
+更换浏览器试试，可能是浏览器驱动问题（谷歌不可以，火狐可以）
+
+9.python3+selenium一定加括号，不加括号不报错，不执行！
+dr.find_element_by_class_name("search-button").click
+dr.find_element_by_class_name("search-button").click()
+
+10.Exception: Message: Unexpected error launching Internet Explorer. Protected Mode settings are not the same for all zones. Enable Protected Mode must be set to the same value (enabled or disabled) for all zones.
+Internet选项->安全; 把Internet站点，本地Intrant,受信任站点 三个地方的安全界面都设置相同等级，例如都设置中； 再次运行代码就可以用IE打开百度了
+(IE浏览器的比例)
+
+11.ORA-01830: 日期格式图片在转换整个输入字符串之前结束
+形式为年-月-日
