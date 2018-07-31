@@ -49,3 +49,5 @@ Internet选项->安全; 把Internet站点，本地Intrant,受信任站点 三个
 
 11.ORA-01830: 日期格式图片在转换整个输入字符串之前结束
 形式为年-月-日
+
+12.get类型要在url后面跟上参数值，post需要body
