@@ -9,8 +9,8 @@ from selenium import webdriver
 import time
 
 # 打开浏览器
-dr = webdriver.Firefox()
-# dr = webdriver.Chrome()
+# dr = webdriver.Firefox()
+dr = webdriver.Chrome()
 # dr = webdriver.Ie()
 
 # 转到淘宝主页

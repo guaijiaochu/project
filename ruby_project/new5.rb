@@ -39,7 +39,7 @@ END {
 
 
 # 打开淘宝网
-dr.get "http://www.taobao.com"
+dr.get "http://muchong.com/bbs/kaoyan.php?formhash=69e79275&school=%CA%AF%BC%D2%D7%AF%CC%FA%B5%C0%B4%F3%D1%A7&r1%5B0%5D=&year=2020&type=1&oksubmit=%C8%B7%B6%A8&page=1"
 
 # 输入华为手机，点击搜索
 dr.find_element(:id,'q').send_key "华为手机"

@@ -1652,3 +1652,15 @@ JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/stat
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1539250965104	geckodriver	INFO	geckodriver 0.19.0
+1539250965115	geckodriver	INFO	Listening on 127.0.0.1:53931
+1539250985452	geckodriver	INFO	geckodriver 0.19.0
+1539250985464	geckodriver	INFO	Listening on 127.0.0.1:53951
+1539250999239	geckodriver	INFO	geckodriver 0.19.0
+1539250999251	geckodriver	INFO	Listening on 127.0.0.1:53972
+1587185927787	geckodriver	INFO	geckodriver 0.19.0
+1587185927835	geckodriver	INFO	Listening on 127.0.0.1:52304
+1587185976498	geckodriver	INFO	geckodriver 0.19.0
+1587185976510	geckodriver	INFO	Listening on 127.0.0.1:52331
+1587185988895	geckodriver	INFO	geckodriver 0.19.0
+1587185988908	geckodriver	INFO	Listening on 127.0.0.1:52342
