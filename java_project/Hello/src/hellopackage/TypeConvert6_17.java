@@ -16,7 +16,15 @@ public class TypeConvert6_17 {
 		int b = 3;
 		float f = 5.3f;
 		double d =6.28;		
-
+		System.out.println( "(ch/a)-(d/f)-(a+b)="  +  ((ch/a)-(d/f)-(a+b))   );//最终为double类型
+		
+		//Math.random()返回随机double值，该值介于0.0和1.0之间
+		double zz = Math.random();
+		System.out.println(zz);
+		int zzz = (int)zz;
+		System.out.println(zzz);
+		
+		
 	}
 
 }
