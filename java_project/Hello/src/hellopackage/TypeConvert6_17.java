@@ -15,7 +15,7 @@ public class TypeConvert6_17 {
 		short a = -2;
 		int b = 3;
 		float f = 5.3f;
-				
+		double d =6.28;		
 
 	}
 
