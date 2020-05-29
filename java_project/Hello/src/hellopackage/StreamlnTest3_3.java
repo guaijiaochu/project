@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 
 
 public class StreamlnTest3_3 {
-	//P74范例3-3：简单的输入输出流使用范例
+//***P74范例3-3：简单的输入输出流使用范例
 	
 	
 	public static void main(String[] args) {
