@@ -1,7 +1,7 @@
 package hellopackage;
 
 public class Exercise3 {
-//***********数据类型的区别
+//***数据类型的区别
 	
 	public static void main(String[] args) {
 		int x = 10;

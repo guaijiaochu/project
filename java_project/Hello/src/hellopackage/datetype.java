@@ -2,7 +2,7 @@ package hellopackage;
 
 public class datetype {
 	public static void main(String[] args) {
-//		byte类型数据的使用
+//***byte类型数据的使用
 		byte byte_max=Byte.MAX_VALUE;//得到Byte型最大值
 		System.out.println("BYTE的最大值"+byte_max);
 		
