@@ -1,6 +1,6 @@
 package hellopackage;
 
-public class VarScope {
+public class VarScope4_3 {
 //***Java中类与方法的变量作用域可嵌套，可以把整个类看做是一个大的作用域，它定义的字段可被方法中的同名字段所屏蔽。
 //	但是方法中不允许有同名变量，不允许作用域嵌套
 	

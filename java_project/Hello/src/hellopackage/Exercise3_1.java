@@ -1,6 +1,6 @@
 package hellopackage;
 
-public class Exercise3 {
+public class Exercise3_1 {
 //***数据类型的区别
 	
 	public static void main(String[] args) {
