@@ -1,4 +1,4 @@
-package hellopackage;
+package hellopackage_basic;
 
 //导入输入输出流包
 //BufferedReader是为了提供读的效率而设计的一个包装类，它可以包装字符流。可以从字符输入流中读取文本，缓冲各个字符，从而实现字符、数组和行的高效读取。

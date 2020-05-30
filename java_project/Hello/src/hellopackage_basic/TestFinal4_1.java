@@ -1,4 +1,4 @@
-package hellopackage;
+package hellopackage_basic;
 
 public class TestFinal4_1 {
 //***静态常量final的使用

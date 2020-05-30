@@ -1,4 +1,4 @@
-package hellopackage;
+package hellopackage_basic;
 
 public class HelloWorld1_1 {//类：就是具备某些共同特征的实体的集合，它是一种抽象的数据类型，它是对所具有相同特征实体的抽象。在面向对象的程序设计语言中，类是对一类“事物”的属性与行为的抽象。
 //***HelloWorld及快捷键

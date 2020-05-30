@@ -1,4 +1,4 @@
-package hellopackage;
+package hellopackage_basic;
 
 public class forDemo7_6_2 {
 

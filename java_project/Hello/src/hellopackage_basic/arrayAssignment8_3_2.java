@@ -1,4 +1,4 @@
-package hellopackage;
+package hellopackage_basic;
 
 //产生随机数的类
 import java.util.Random;

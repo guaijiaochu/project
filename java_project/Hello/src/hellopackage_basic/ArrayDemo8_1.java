@@ -1,4 +1,4 @@
-package hellopackage;
+package hellopackage_basic;
 
 public class ArrayDemo8_1 {
 

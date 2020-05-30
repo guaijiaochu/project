@@ -1,4 +1,4 @@
-package hellopackage;
+package hellopackage_basic;
 
 public class datetype5_1 {
 	public static void main(String[] args) {

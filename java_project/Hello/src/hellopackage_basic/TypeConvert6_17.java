@@ -1,4 +1,4 @@
-package hellopackage;
+package hellopackage_basic;
 
 public class TypeConvert6_17 {
 

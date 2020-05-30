@@ -1,4 +1,4 @@
-package hellopackage;
+package hellopackage_basic;
 
 public class Exercise3_1 {
 //***数据类型的区别
