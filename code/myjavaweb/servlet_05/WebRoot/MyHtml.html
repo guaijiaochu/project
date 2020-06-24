@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MyHtml.html</title>
+	
+    <meta name="keywords" content="keyword1,keyword2,keyword3">
+    <meta name="description" content="this is my page">
+    <meta name="content-type" content="text/html; charset=UTF-8">
+    <meta charset=UTF-8>
+    
+    <!--<link rel="stylesheet" type="text/css" href="./styles.css">-->
+	<script type="text/javascript">
+	function refreshCurrentPage(){
+		window.location.href="http://localhost:8080/servlet_01/hello";
+		}
+		</script>
+  </head>
+  
+  <body>
+  
+	<a href="/servlet_01/hello">访问hello</a><br>
+	<form action="/servlet_01/hello" method="get" >
+	用户名：<input type="text" name="username"><br>
+		<input type="submit" value="注册">
+	</form><br>
+	<a href="#" onclick="refreshCurrentPage()">刷新</a>
+  </body>
+</html>

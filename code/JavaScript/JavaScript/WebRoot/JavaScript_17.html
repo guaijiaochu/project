@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script type="text/javascript" >
+
+	function doit(){
+	
+		var links= documents.getElementByTagName("a");
+		for(var i=0;i<links.length;i++){
+		var link=links[i];
+		alert(link.href);
+		}
+		
+		var sina=documents.getElementById("sina");
+		alert(sina.href);
+		
+	
+	}
+
+
+</script>
+</head>
+<body onload="doit()">
+
+<a  href="www.baidu.com">百度</a>
+<a id="sina" href="www.sina.com">新浪</a>
+
+
+</body>
+</html>
+
+

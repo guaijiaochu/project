@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
+  <servlet>
+    <servlet-name>ScopeTestServlet</servlet-name>
+    <servlet-class>ScopeTestServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>JSTLTestServlet</servlet-name>
+    <servlet-class>cn.com.leader.JSTLTestServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>CCondition</servlet-name>
+    <servlet-class>cn.com.leader.CConditionServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>CforEachServlet</servlet-name>
+    <servlet-class>cn.com.leader.CforEachServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>CFmtFormatServlet</servlet-name>
+    <servlet-class>cn.com.leader.CFmtFormatServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>MyTaglib</servlet-name>
+    <servlet-class>cn.com.leader.MyTaglib</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ytaglib</servlet-name>
+    <servlet-class>cn.com.leader.ytaglib</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Myfunction</servlet-name>
+    <servlet-class>cn.com.leader.Myfunction</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>ScopeTestServlet</servlet-name>
+    <url-pattern>/servlet/ScopeTestServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>JSTLTestServlet</servlet-name>
+    <url-pattern>/JSTLTestServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CCondition</servlet-name>
+    <url-pattern>/CConditionServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CforEachServlet</servlet-name>
+    <url-pattern>/CforEachServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CFmtFormatServlet</servlet-name>
+    <url-pattern>/CFmtFormatServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>MyTaglib</servlet-name>
+    <url-pattern>/MyTaglib</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ytaglib</servlet-name>
+    <url-pattern>/ytaglib</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Myfunction</servlet-name>
+    <url-pattern>/function</url-pattern>
+  </servlet-mapping>
+
+<welcome-file-list> 
+	
+	<welcome-file> index.jsp</welcome-file>
+	<welcome-file> index01.jsp</welcome-file>
+	<welcome-file> index02.jsp</welcome-file>
+
+</welcome-file-list>
+
+</web-app>

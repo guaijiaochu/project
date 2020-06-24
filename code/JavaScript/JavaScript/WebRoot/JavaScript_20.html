@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script type="text/javascript" >
+var obj={"name":"张三","sex":"男","age":"30"}
+
+alert(obj.name);
+alert(obj["name"]);
+
+for(var sx in obj){
+	alert("属性名:"+sx+"..."+"属性值:"+obj[sx]);
+}
+
+</script>
+</head>
+<body>
+<form action="request" method="post">
+	<input type="text"  name="username"> 
+	<button onclick="return openwin();">打开新窗口，输入username</button> 
+</form>
+
+</body>
+</html>
+
+

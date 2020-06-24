@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+	<script type="text/javascript" >
+
+	function doit(){
+	alert("鼠标移出图片");
+	}
+	function dosomething(){
+		alert("	页面加载完成");
+
+	}
+	
+	function selectit(){
+		alert("	选择改变");
+	}
+		
+	</script>
+
+
+</head>
+<body onload="dosomething()">
+
+<!--<img src="logo.gif" onmouseou="doit"()>-->
+
+<select onchange="selectit()"> 
+
+<option value="0">男</option>
+<option value="1">女</option>
+<option value="2">中</option>
+
+</select>
+
+
+<input type="text" name="username"
+onfocus= "alert('username 获得焦点')"
+onblur=  "alert('username 失去焦点')"
+>
+
+</body>
+</html>
+
+

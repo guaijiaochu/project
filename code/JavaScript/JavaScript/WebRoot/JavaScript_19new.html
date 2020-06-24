@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script type="text/javascript" >
+
+function closewindow(){
+	window.opener.document.forms[0].username.value=window.document.getElementById("returnValue").value;
+	
+	window.opener.doit();
+	window.close();
+}
+
+</script>
+</head>
+<body>
+
+<input type="text" id ="returnValue">
+<button onclick="closewindow();">关闭本窗口</button> 
+</body>
+</html>
+
+
