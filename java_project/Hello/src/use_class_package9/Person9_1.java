@@ -11,16 +11,17 @@ package use_class_package9;
  *
  *多态：对象根据所接受的消息而做出动作。同一消息被不同的对象接受时可产生完全不同的行动，这种现象成为多态。
  *
- *
  */
-public class Person {
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
-		
+public class Person9_1 {
+//	类的组成使用
+		String name;
+		int age;
+		void talk() 
+		{
+			System.out.println("我是：" +name+ ",今年" +age+ "岁");
+			}
 
 	}
-
-}
+//public static void main(String[] args) {
+	// TODO 自动生成的方法存根
+//}
