@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #出现ASCII 编码的错误
 
-
 # 习题 1: 输出
 print ("习题1")
 print ("Hello world")
@@ -117,21 +116,6 @@ print ("How tall are you?")
 tall = input("请输入身高（cm）：")
 print ("So, you're %s cm." % tall) 
 
-# 习题 13: 参数、解包、变量 37页
-print ("习题13")
-
-
-
-
-# print ("习题9")
-# print ("习题9")
-# print ("习题9")
-# print ("习题9")
-# print ("习题9")
-# print ("习题9")
-# print ("习题9")
-# print ("习题9")
-# print ("习题9")
 
 
 
