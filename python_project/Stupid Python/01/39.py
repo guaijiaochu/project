@@ -1,4 +1,4 @@
-# 习题 39: 字典, 可爱的字典
+# 习题 39: 字典, 可爱的字典97页
 stuff = {'name': 'Zed' ,  'age': 36  ,  'height': 6*12+2}
 print (stuff['name'])
 print(stuff['height'])

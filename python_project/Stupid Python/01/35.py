@@ -1,4 +1,4 @@
-# 习题 35: 分支和函数
+# 习题 35: 分支和函数84页
 from sys import exit
 def gold_room():
     print( "This room is full of gold. How much do you take?这个房间里装满了金子。你带多少钱")
