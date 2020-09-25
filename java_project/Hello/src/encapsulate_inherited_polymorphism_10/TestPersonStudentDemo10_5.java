@@ -4,7 +4,7 @@ public class TestPersonStudentDemo10_5 {
 	//类的继承
 	public static void main(String[] args) {
 
-		Student s = new Student();
+		Student10_5 s = new Student10_5();
 		s.name = "张三";
 		s.age=25;
 		s.school = "北京";
