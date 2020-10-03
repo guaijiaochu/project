@@ -11,8 +11,6 @@ public class TestException15_6{
 		catch (Exception e) {
 			System.err.println("这个异常是："+e);
 		}
-
-		
 	}		
 }
 
