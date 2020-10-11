@@ -1,94 +1,384 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:bundler" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:bundler" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:code" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:bundler" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:code" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:rubydemo" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:bundler" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:code" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:rubydemo" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:blog" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:bundler" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:code" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:rubydemo" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:blog1" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06b02c19-6e59-465b-9b9e-692a80f86180" name="Default Changelist" comment="" />
+    <list default="true" id="06b02c19-6e59-465b-9b9e-692a80f86180" name="Default Changelist" comment="888">
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo/2.2.1naarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo/2.2.2operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo/2.2.3broadcasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo/2.2.4index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo/2.2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_appendix/aws.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_appendix/buy-gpu.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_appendix/d2lzh.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_appendix/how-to-contribute.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_appendix/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_appendix/jupyter.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_appendix/math.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_appendix/notation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computational-performance/async-computation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computational-performance/auto-parallelism.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computational-performance/hybridize.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computational-performance/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computational-performance/multiple-gpus-gluon.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computational-performance/multiple-gpus.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/anchor.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/bounding-box.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/fcn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/fine-tuning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/image-augmentation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/kaggle-gluon-cifar10.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/kaggle-gluon-dog.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/multiscale-object-detection.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/neural-style.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/object-detection-dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/rcnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/semantic-segmentation-and-dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_computer-vision/ssd.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/alexnet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/batch-norm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/channels.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/conv-layer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/densenet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/googlenet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/lenet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/nin.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/padding-and-strides.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/pooling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/resnet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_convolutional-neural-networks/vgg.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/backprop.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/dropout.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/fashion-mnist.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/kaggle-house-price.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/linear-regression-gluon.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/linear-regression-scratch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/linear-regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/mlp-gluon.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/mlp-scratch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/mlp.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/numerical-stability-and-init.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/softmax-regression-gluon.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/softmax-regression-scratch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/softmax-regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/underfit-overfit.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-basics/weight-decay.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-computation/custom-layer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-computation/deferred-init.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-computation/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-computation/model-construction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-computation/parameters.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-computation/read-write.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_deep-learning-computation/use-gpu.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_how-to-use/how-to-use.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_introduction/deep-learning-intro.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/approx-training.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/attention.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/beam-search.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/fasttext.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/glove.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/machine-translation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/sentiment-analysis-cnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/sentiment-analysis-rnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/seq2seq.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/similarity-analogy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/word2vec-gluon.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_natural-language-processing/word2vec.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_optimization/adadelta.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_optimization/adagrad.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_optimization/adam.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_optimization/gd-sgd.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_optimization/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_optimization/minibatch-sgd.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_optimization/momentum.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_optimization/optimization-intro.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_optimization/rmsprop.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_preface/preface.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_prerequisite/autograd.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_prerequisite/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_prerequisite/install.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_prerequisite/lookup-api.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_prerequisite/ndarray.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/bi-rnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/bptt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/deep-rnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/gru.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/lang-model-dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/lang-model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/lstm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/rnn-gluon.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/rnn-scratch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/chapter_recurrent-neural-networks/rnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/condaenv.84dq6d2q.requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/condaenv.e6t5zoto.requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/d2lzh/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/d2lzh/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/data/airfoil_self_noise.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/data/fr-en-small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/data/jaychou_lyrics.txt.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/data/kaggle_cifar10/test_tiny.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/data/kaggle_cifar10/trainLabels.csv.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/data/kaggle_cifar10/train_tiny.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/data/kaggle_dog/train_valid_test_tiny.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/data/kaggle_house_pred_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/data/kaggle_house_pred_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/data/ptb.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/environment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/anchor-label.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/attention.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/autumn_oak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/aws.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/beam_search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/birnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/book-org.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/capacity_vs_error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/cat1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/catdog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/cbow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/cifar10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/comp-comm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/connect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/contrib01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/contrib02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/contrib03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/contrib04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/contrib05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/contrib06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/conv1d-2d.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/conv1d-channel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/conv1d.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/conv_1x1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/conv_multi_in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/conv_pad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/conv_stride.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/correlation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/cuda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/data-parallel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/deep-rnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/densenet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/disk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/dropout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/ec2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/fast-rcnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/faster-rcnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/fcn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/finetune.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/gru_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/gru_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/gru_3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/gtx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/hi-softmax.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/house_pricing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/inception.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/iou.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/jupyter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/jupyter00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/jupyter01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/jupyter02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/jupyter03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/jupyter04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/jupyter05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/jupyter06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/kaggle-dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/kaggle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/kaggle_cifar10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/kaggle_submit2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/keypair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/koebel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/launching.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/limits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/linreg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/lstm_0.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/lstm_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/lstm_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/lstm_3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/mask-rcnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/mlp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/mxnet-website.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/neural-style-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/neural-style-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/neural-style.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/nin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/ones_like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/os.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/p2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/pikachu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/pooling.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_adadelta.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_adagrad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_adam.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_alexnet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_anchor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_async-computation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_attention.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_auto-parallelism.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_autograd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_aws.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_backprop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_batch-norm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_beam-search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_bi-rnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_bounding-box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_bptt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_buy-gpu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_channels.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_conv-layer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_custom-layer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_deep-learning-intro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_deep-rnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_deferred-init.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_densenet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_dropout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_fashion-mnist.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_fasttext.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_fcn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_fine-tuning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_gd-sgd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_glove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_googlenet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_gru.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_how-to-contribute.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_how-to-use.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_hybridize.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_image-augmentation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_install.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_jupyter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_kaggle-gluon-cifar10.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_kaggle-gluon-dog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_kaggle-house-price.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_lang-model-dataset.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_lang-model.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_lenet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_linear-regression-gluon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_linear-regression-scratch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_linear-regression.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_lookup-api.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_lstm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_machine-translation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_math.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_minibatch-sgd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_mlp-gluon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_mlp-scratch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_mlp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_model-construction.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_momentum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_multiple-gpus-gluon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_multiple-gpus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_multiscale-object-detection.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_ndarray.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_neural-style.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_nin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_numerical-stability-and-init.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_object-detection-dataset.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_optimization-intro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_optimization-summary.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_padding-and-strides.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_parameters.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_pooling.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_rcnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_read-write.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_resnet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_rmsprop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_rnn-gluon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_rnn-scratch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_rnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_semantic-segmentation-and-dataset.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_sentiment-analysis-cnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_sentiment-analysis.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_seq2seq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_similarity-analogy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_softmax-regression-gluon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_softmax-regression-scratch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_softmax-regression.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_ssd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_underfit-overfit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_use-gpu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_vgg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_weight-decay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_word2vec-approx-train.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_word2vec-gluon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/qr_word2vec.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/r-cnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/rainier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/residual-block.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/rnn-bptt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/rnn-train.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/rnn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/roi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/s2s_prob1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/s2s_prob2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/segmentation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/seq2seq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/skip-gram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/softmaxreg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/ssd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/ssh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/style-transfer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_project/DeepLearning_dsx/d2l-zh/img/textcnn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hoW7lkNNJmtAqgSTDre6sSGayF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2099898" />
   </component>
-  <component name="RunManager">
-    <configuration name="44" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="project" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="project" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projectspace\githubpycharm\python_project\DeepLearning_dsx\Demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.2.2.4index">
+    <configuration name="2.2.1naarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +386,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_project/Stupid Python/01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_project/Stupid Python/01/44.py" />
+      <option name="SCRIPT_NAME" value="D:\projectspace\githubpycharm\python_project\DeepLearning_dsx\Demo\2.2.1naarray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.2.2operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo/2.2.2operator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.2.3broadcasting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo/2.2.3broadcasting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.2.4index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_project/DeepLearning_dsx/Demo/2.2.4index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abnormal_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_project/Python Data analysis and mining practice/new/chapter3/demo/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_project/Python Data analysis and mining practice/new/chapter3/demo/code/abnormal_check.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +485,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.44" />
+        <item itemvalue="Python.2.2.4index" />
+        <item itemvalue="Python.2.2.2operator" />
+        <item itemvalue="Python.2.2.3broadcasting" />
+        <item itemvalue="Python.2.2.1naarray" />
+        <item itemvalue="Python.abnormal_check" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +502,42 @@
       <option name="presentableId" value="Default" />
       <updated>1600677760936</updated>
     </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1601888232797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601888232797</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1112">
+      <created>1601888386866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601888386866</updated>
+    </task>
+    <task id="LOCAL-00003" summary="切菜">
+      <created>1601889091961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601889091961</updated>
+    </task>
+    <task id="LOCAL-00004" summary="666333">
+      <created>1601889193281</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601889193281</updated>
+    </task>
+    <task id="LOCAL-00005" summary="888">
+      <created>1601889301025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601889301025</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,35 +550,88 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="111" />
+    <MESSAGE value="1112" />
+    <MESSAGE value="切菜" />
+    <MESSAGE value="666333" />
+    <MESSAGE value="888" />
+    <option name="LAST_COMMIT_MESSAGE" value="888" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1600681710374">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1602338666152">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600681710374" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602338666152" />
     <state x="568" y="260" key="Github.ShareDialog" timestamp="1600681643783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="568" y="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1600681643783" />
-    <state width="1344" height="140" key="GridCell.Tab.0.bottom" timestamp="1600679231416">
+    <state width="1344" height="202" key="GridCell.Tab.0.bottom" timestamp="1602387197761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="140" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600679231416" />
-    <state width="1344" height="140" key="GridCell.Tab.0.center" timestamp="1600679231416">
+    <state width="1344" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602387197761" />
+    <state width="1344" height="202" key="GridCell.Tab.0.center" timestamp="1602387197761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="140" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600679231416" />
-    <state width="1344" height="140" key="GridCell.Tab.0.left" timestamp="1600679231416">
+    <state width="1344" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602387197761" />
+    <state width="1344" height="202" key="GridCell.Tab.0.left" timestamp="1602387197760">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="140" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600679231416" />
-    <state width="1344" height="140" key="GridCell.Tab.0.right" timestamp="1600679231416">
+    <state width="1344" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602387197760" />
+    <state width="1344" height="202" key="GridCell.Tab.0.right" timestamp="1602387197761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="140" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600679231416" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1600681543174">
+    <state width="1344" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602387197761" />
+    <state width="1344" height="216" key="GridCell.Tab.1.bottom" timestamp="1602384253932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600681543174" />
+    <state width="1344" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602384253932" />
+    <state width="1344" height="216" key="GridCell.Tab.1.center" timestamp="1602384253932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602384253932" />
+    <state width="1344" height="216" key="GridCell.Tab.1.left" timestamp="1602384253932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602384253932" />
+    <state width="1344" height="216" key="GridCell.Tab.1.right" timestamp="1602384253932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602384253932" />
+    <state x="129" y="54" key="MergeDialog" timestamp="1601889168449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="54" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601889168449" />
+    <state x="317" y="123" key="MultipleFileMergeDialog" timestamp="1601889168464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="123" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601889168464" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1602381578217">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602381578217" />
+    <state x="275" y="82" key="Vcs.Push.Dialog.v2" timestamp="1601889304777">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="82" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601889304777" />
+    <state x="496" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602336485767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602336485767" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_project/Python Data analysis and mining practice/new/chapter3/demo/code/abnormal_check.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
