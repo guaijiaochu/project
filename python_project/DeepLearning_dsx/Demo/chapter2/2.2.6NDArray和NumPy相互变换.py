@@ -10,12 +10,12 @@ import numpy as np
 
 # 下⾯将NumPy（numpy数组）实例变换成NDArray(普通数组)实例。
 P = np.ones((2, 3))#（numpy数组）
-D = nd.array(P)#NDArray(普通数组)
+D = nd.array(P)#NDArray(普通数组)   numpy->mxnet
 print("D1:",D)
 
 
 # 再将NDArray实例变换成NumPy实例。
-DD=D.asnumpy()#（DD:numpy数组）
+DD=D.asnumpy()#（DD:numpy数组）   mxnet->numpy
 print("DD:",DD)
 
 # • NDArray是MXNet中存储和变换数据的主要⼯具。
